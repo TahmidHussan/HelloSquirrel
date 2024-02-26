@@ -46,11 +46,11 @@ GIF created with **your chosen GIF tool**
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+This project helped me learn how to navigate through an Android project and edit specific files.
 
 ## License
 
-Copyright **yyyy** **your name**
+Copyright **2024** **Tahmid Hussan**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
